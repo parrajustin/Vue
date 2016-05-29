@@ -1,6 +1,6 @@
 # vue
 
-> A Vue.js project
+> The Fuzzion XYZ website
 
 ## Build Setup
 
@@ -21,4 +21,4 @@ npm run lint
 npm test
 ```
 
-For more information see the [docs for vueify](https://github.com/vuejs/vueify).
+See the website [fuzzion.xyz](fuzzion.xyz).
