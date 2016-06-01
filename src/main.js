@@ -1,5 +1,6 @@
 var Vue = require('vue')
 var VueRouter = require('vue-router')
+import Hello from './components/Hello.vue'
 
 Vue.use(VueRouter)
 
@@ -24,6 +25,9 @@ var router = new VueRouter()
 
 //add your routes and their components
 router.map({
+    '/': {
+        component: Foo
+    },
     '/foo': {
         component: Foo
     },
