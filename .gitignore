@@ -1,3 +1,9 @@
 .DS_Store
 node_modules
-dist/build.js
+coverage
+explorations
+TODOS.md
+*.log
+docs/_book
+dist/vue-router.min.js.gz
+dist/vue-router.js.map
